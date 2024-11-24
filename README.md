@@ -1,6 +1,5 @@
-<h2 align="left"> Hello there👋! I am Natalia, a Frontend Developer.</h2>
+<h2 align="left"> Hello there👋! I am Natalia, a Frontend Developer 🚀.</h2>
 
-- 🚀 I have 1 year of experience in development
 - 🎓 I am currently learning SASS and Next.js to improve my qualifications.
    
 Thank you for your time and consideration 💛.
