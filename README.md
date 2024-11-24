@@ -1,6 +1,9 @@
-## Hello there 👋
-### I am Natalia, a Frontend Developer with 1 year of experience 🚀. In the near future, I plan to improve my qualifications in SASS and Next.js 🎓. Thank you for your time and consideration 💛. 
+<h2 align="left"> Hello there👋! I am Natalia, a Frontend Developer.</h2>
 
+- 🚀 I have 1 year of experience in development
+- 🎓 I am currently learning SASS and Next.js to improve my qualifications.
+   
+Thank you for your time and consideration 💛.
 <!--
 **Natalia-Kalashnikova/Natalia-Kalashnikova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
