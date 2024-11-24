@@ -1,4 +1,4 @@
-<h2 align="left"> Hello there👋! I am Natalia, a Frontend Developer 🚀.</h2>
+<h2 align="left"> Hello there👋! I am Natalia, a Fullstack Developer 🚀.</h2>
 
 - 🎓 I am currently learning SASS and Next.js to improve my qualifications.
    
