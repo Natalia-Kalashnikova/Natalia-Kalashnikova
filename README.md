@@ -1,6 +1,6 @@
 <h2 align="left"> Hello there👋! I am Natalia, a Fullstack Developer 🚀.</h2>
 
-- 🎓 I also have experience working with Figma, Photoshop, and creating GIF animations. Skilled in website development on platforms like Wix, I am currently deepening my knowledge of Next.js.
+- 🎓 I also have experience working with Figma, Photoshop, and creating GIF animations. Skilled in website development on platforms like Wix, I am currently deepening my knowledge of Vue.js.
 
 - 🐈 I focus on delivering user-friendly projects on time while adhering to Agile/Scrum methodologies. With a detail-oriented and organized approach, I thrive in collaborative environments, bringing a positive attitude and a good sense of humor to every project.
    
