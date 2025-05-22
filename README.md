@@ -1,6 +1,6 @@
 <h2 align="left"> Hello there👋! I am Natalia, a Fullstack Developer 🚀.</h2>
 
-- 🎯 I am a Front-End Developer specializing in HTML5, CSS3, SASS, JavaScript, React, TypeScript, Node.js, and Next.js.
+- 🎯 I am a Fullstack Developer specializing in HTML5, CSS3, SASS, JavaScript, React, TypeScript, Node.js, and Next.js.
 
 - 💻 I can develop landing pages and multi-page websites, create advertising banners, refactor existing code, and work with website builders.
 
