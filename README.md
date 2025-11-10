@@ -1,4 +1,4 @@
-<h2 align="left"> Hello there👋! I am Natalia, a Fullstack Developer 🚀.</h2>
+<h2 align="left"> Hello there👋! I am Natalia, a Fullstack Developer and data scientist 🚀.</h2>
 
 - 🎯 I am a Fullstack Developer specializing in HTML5, CSS3, SASS, JavaScript, React, TypeScript, Node.js, and Next.js.
 
