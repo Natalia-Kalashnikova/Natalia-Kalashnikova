@@ -1,4 +1,4 @@
-<h2 align="left"> Hello there👋! I am Natalia, a versatile Fullstack Developer and Data Scientist 🚀.</h2>
+то<h2 align="left"> Hello there👋! I am Natalia, a versatile Fullstack Developer and Data Scientist 🚀.</h2>
 
 - 🌟 I possess a powerful combination of skills in Fullstack Development (**MERN** stack) and Data Science, allowing me to build applications from end-to-end and integrate complex data-driven solutions 🧠.
 - 📚 I thrive in dynamic, collaborative environments, applying **Agile/Scrum** methodologies to deliver user-friendly, detail-oriented projects on time ⏳.
@@ -10,7 +10,7 @@
 
 ### 🌐 Frontend Development
 
-![Frontend Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,js,ts,react,redux,nextjs,vue,vite,figma)
+![Frontend Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,js,ts,react,redux,nextjs,vue,vite,figma,ps)
 
 I specialize in developing modern, **cross-browser**, and responsive user interfaces. 
 
@@ -34,13 +34,13 @@ I am proficient in the fundamentals of working with **MongoDB** 🍃 and **SQL**
 
 ### 📊 Data Science & Machine Learning
 
-![Data Science Skills](https://go-skill-icons.vercel.app/api/icons?i=python,anaconda,numpy,pandas,scikitlearn,tensorflow,pytorch,docker)
+![Data Science Skills](https://go-skill-icons.vercel.app/api/icons?i=python,anaconda,numpy,pandas,scikitlearn,tensorflow,pytorch,docker,streamlit)
 
 I am a certified Data Scientist proficient in **Python** 🐍 and key data analysis libraries. 
 
 My competencies cover the entire data lifecycle: from **EDA** and basic statistics to building and evaluating **Machine Learning** models (classification, clustering) and **Deep Learning** models (NNs, CNNs, Sequence Models). 
 
-I also have experience with **NLP** 🗣️ and creating interactive web applications (Dash) to showcase results.
+I also have experience with **NLP** 🗣️ and creating interactive web applications (Streamlit) to showcase results.
 
 ---
 
