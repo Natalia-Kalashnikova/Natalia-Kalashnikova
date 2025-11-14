@@ -1,4 +1,4 @@
-то<h2 align="left"> Hello there👋! I am Natalia, a versatile Fullstack Developer and Data Scientist 🚀.</h2>
+<h2 align="left"> Hello there👋! I am Natalia, a versatile Fullstack Developer and Data Scientist 🚀.</h2>
 
 - 🌟 I possess a powerful combination of skills in Fullstack Development (**MERN** stack) and Data Science, allowing me to build applications from end-to-end and integrate complex data-driven solutions 🧠.
 - 📚 I thrive in dynamic, collaborative environments, applying **Agile/Scrum** methodologies to deliver user-friendly, detail-oriented projects on time ⏳.
