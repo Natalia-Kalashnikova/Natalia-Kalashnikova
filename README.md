@@ -36,7 +36,7 @@ I am proficient in the fundamentals of working with **MongoDB** 🍃 and **SQL**
 
 ![Data Science Skills](https://go-skill-icons.vercel.app/api/icons?i=python,anaconda,numpy,pandas,scikitlearn,tensorflow,pytorch,docker,streamlit)
 
-I am a certified Data Scientist proficient in **Python** 🐍 and key data analysis libraries. 
+I am a Data Scientist proficient in **Python** 🐍 and key data analysis libraries. 
 
 My competencies cover the entire data lifecycle: from **EDA** and basic statistics to building and evaluating **Machine Learning** models (classification, clustering) and **Deep Learning** models (NNs, CNNs, Sequence Models). 
 
