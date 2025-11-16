@@ -44,7 +44,7 @@ I also have experience with **NLP** 🗣️ and creating interactive web applica
 
 ---
 
-## Certifications 🎓
+## 🎓 Certifications
 * **FULLSTACK DEVELOPER**
 * **DATA SCIENTIST** 
 
