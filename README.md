@@ -49,5 +49,5 @@ I also have experience with **NLP** 🗣️ and creating interactive web applica
 * **DATA SCIENTIST** 
 
 
-## Stats ⚡
+## ⚡ Stats
 ![alvalen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Natalia-Kalashnikova&hide_issues&show_icons=true&theme=transparent) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Natalia-Kalashnikova&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
